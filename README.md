@@ -2,7 +2,7 @@
 
 ## Smart Contract Preview
 
-![SecureStakeVault](docs/images/remix-compilation.png)
+![SecureStakeVault](‎docs/images/remix-compilation.png)
 
 
 SecureStakeVault is a secure and configurable ERC20 staking smart contract designed for DeFi platforms, staking applications, token ecosystems, blockchain startups, DAOs, and Web3 projects.
