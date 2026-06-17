@@ -1,5 +1,10 @@
 # ERC20 Staking Smart Contract (Solidity)
 
+## Smart Contract Preview
+
+![SecureStakeVault](docs/images/remix-compilation.png)
+
+
 SecureStakeVault is a secure and configurable ERC20 staking smart contract designed for DeFi platforms, staking applications, token ecosystems, blockchain startups, DAOs, and Web3 projects.
 
 Built with Solidity 0.8.x, the contract allows users to stake ERC20 tokens, earn rewards through configurable APY plans, harvest accumulated rewards, and perform emergency withdrawals with configurable penalties.
