@@ -239,10 +239,13 @@ realtimeRewardPerBlock(address user, uint256 index)
 This contract is provided as a reference implementation. It should be reviewed and tested before production use. Smart contracts can hold real funds, and deployment mistakes can be irreversible.
 
 
-## Contacts
-WhatsApp:  +380688011088<br>
-Telegram:  @morgan_sql<br>
-Telegram:  @systems_dev<br>
+## Contact
+
+For smart contract development, blockchain automation, DeFi applications, and custom software development:
+
+- Telegram:  @morgan_sql<br>
+- WhatsApp: +380688011088<br>
+- Website: https://py-dev.top
 
 
 ## License and Usage Notice
