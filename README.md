@@ -238,6 +238,22 @@ realtimeRewardPerBlock(address user, uint256 index)
 
 This contract is provided as a reference implementation. It should be reviewed and tested before production use. Smart contracts can hold real funds, and deployment mistakes can be irreversible.
 
-## License
 
-MIT
+## Contacts
+WhatsApp:  +380688011088<br>
+Telegram:  @morgan_sql<br>
+Telegram:  @systems_dev<br>
+
+
+## License and Usage Notice
+
+This project is licensed under the MIT License.
+
+⚠️ However, unauthorized copying, redistribution, publication, or forking of this repository in a way that falsely attributes authorship or contributor status is strictly prohibited.
+
+The author (PyDev) does not consent to being listed as a contributor in unauthorized forks or copies of this repository.
+
+If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
+
+Author: PyDev
+
