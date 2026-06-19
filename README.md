@@ -264,6 +264,19 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 https://github.com/pydevtop/p2p-binance-telegram-bot
 ******************************************************************************
 
+## 💖 Support the Project
+
+If you find this project useful and would like to support future development, you can donate via crypto:
+
+| Coin | Address | QR Code |
+|------|----------|---------|
+| **BTC** | `bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un` | ![BTC QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=bc1qhuse723j4r44ux5q3z9fmfwmfgd3zmguqjlyn93l7uce2lmh74zqzpw7un) |
+| **ETH / USDT (ERC20)** | `0x8a0024f04132fa46e57617c78e0395d4a7fd3244` | ![ETH QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0x8a0024f04132fa46e57617c78e0395d4a7fd3244) |
+| **BNB / USDT (BEP20)** | `0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89` | ![BNB QR](https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa629533c7b4b934ce9fdcf1113d3a5fa607f7b89) |
+
+Every contribution is greatly appreciated 🙏
+
+
 ## License and Usage Notice
 
 This project is licensed under the MIT License.
