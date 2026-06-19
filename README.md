@@ -253,6 +253,17 @@ For smart contract development, blockchain automation, DeFi applications, and cu
 - Website: https://py-dev.top
 
 
+####  Similar developments:
+******************************************************************************
+P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+
+### Related Binance P2P Automation Tool
+
+**Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
+
+https://github.com/pydevtop/p2p-binance-telegram-bot
+******************************************************************************
+
 ## License and Usage Notice
 
 This project is licensed under the MIT License.
