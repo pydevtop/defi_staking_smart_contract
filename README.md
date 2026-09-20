@@ -249,7 +249,6 @@ This contract is provided as a reference implementation. It should be reviewed a
 For smart contract development, blockchain automation, DeFi applications, and custom software development:
 
 - Telegram:  @morgan_sql<br>
-- WhatsApp: +380688011088<br>
 - Website: https://py-dev.top
 
 
